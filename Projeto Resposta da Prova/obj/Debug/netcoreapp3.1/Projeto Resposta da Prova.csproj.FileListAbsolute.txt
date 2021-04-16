@@ -1,0 +1,41 @@
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.exe
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.deps.json
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.runtimeconfig.json
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.runtimeconfig.dev.json
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.dll
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.pdb
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.Views.dll
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\bin\Debug\netcoreapp3.1\Projeto Resposta da Prova.Views.pdb
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.csprojAssemblyReference.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.AssemblyInfoInputs.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.AssemblyInfo.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.csproj.CoreCompileInputs.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.RazorAssemblyInfo.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.RazorAssemblyInfo.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Resposta da Prova.StaticWebAssets.Manifest.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Resposta da Prova.StaticWebAssets.xml
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto Resposta da Prova.styles.css
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.TagHelpers.input.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.TagHelpers.output.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.RazorCoreGenerate.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.RazorTargetAssemblyInfo.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.RazorTargetAssemblyInfo.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.Views.pdb
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.dll
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.pdb
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.genruntimeconfig.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Projeto Resposta da Prova.csproj.CopyComplete
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Novo.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Index.cshtml.g.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova\Projeto Resposta da prova\Projeto Resposta da Prova\Projeto Resposta da Prova\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Novo.cshtml.g.cs

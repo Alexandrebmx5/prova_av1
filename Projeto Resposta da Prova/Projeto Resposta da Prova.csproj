@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Projeto_Resposta_da_Prova</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Cliente\Index.cshtml.cs" />
+    <Compile Remove="Views\Cliente\Novo.cshtml.cs" />
+  </ItemGroup>
+
+</Project>

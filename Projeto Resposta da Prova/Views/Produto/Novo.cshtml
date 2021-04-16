@@ -1,0 +1,66 @@
+﻿@model Projeto_Resposta_da_Prova.Models.ProdutoViewsModels
+
+<h1>Cadastro de Produto</h1>
+
+<form asp-action="Novo">
+    <div class="card">
+        <div class="card-header">Dados do Produto</div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <label asp-for="CodProd"></label>
+                    <input type="text" asp-for="CodProd" class="form-control" />
+                    <span asp-validation-for="CodProd" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                    <label asp-for="Categoria"></label>
+                    <span asp-validation-for="Categoria" class="text-danger"></span>
+                    <select asp-for="Categoria" class="form-control">
+                        <option>Selecione</option>
+                        <option value="Infantil">Infantil</option>
+                        <option value="Juvevil">Juvevil</option>
+                        <option value="Adulto">Adulto</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <label asp-for="Preco"></label>
+                    <input type="text" asp-for="Preco" class="form-control" />
+                    <span asp-validation-for="Preco" class="text-danger"></span>
+                </div>
+                <div class="col-md-8 col-sm-12">
+                    <label asp-for="Descricao"></label>
+                    <input type="text" asp-for="Descricao" class="form-control" />
+                    <span asp-validation-for="Descricao" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <label asp-for="Observacao"></label>
+                    <input type="text" asp-for="Observacao" class="form-control" />
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-md-2">
+                    <input type="submit" value="Gravar" class="btn btn-success" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-2">
+        <a class="btn btn-dark" asp-controller="Produto" asp-action="Index">Voltar</a>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
